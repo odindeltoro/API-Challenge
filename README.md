@@ -2,8 +2,10 @@
 ## Objective
 
 Analyzed changes in weather with respect to distance from the equator.
+
 Pulled data from OpenWeatherMap API to assemble a dataser on over 500 cities.
-Summary statistics and visualizations created using Python, Pandas and Matplotlib.
+
+Summary statistics and visualizations created using Python, Pandas, Matplotlib and gmaps.
 
 ![Lat vs Temp](starter_code/latitudevstemperature.png)
 ![Lat vs Hum](starter_code/latitudevshumidity.png)
